@@ -1,0 +1,106 @@
+/*
+
+Recognition Drawing v2.1.6 
+AR + Filter
+build: Instagram, Facebook
+made with <3 by Miyö Van Stenis - http://wwww.miyovanstenis.com/
+*/
+
+html
+{
+min-height:100%;
+
+}
+
+body {
+	color: #FFF;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: 400;
+	font-family: "Source Sans Pro", Helvetica, Arial sans-serif;
+	line-height: 1.5;
+	
+background-attachment:fixed;
+background-origin:inital;
+background-repeat:no repeat;
+height:100%;
+	
+background: #a2e0f9;
+  /* FF3.6+ */
+ background: rgb(217,213,121);
+background: -moz-linear-gradient(180deg, rgba(217,213,121,1) 0%, rgba(228,187,135,1) 100%);
+background: -webkit-linear-gradient(180deg, rgba(217,213,121,1) 0%, rgba(228,187,135,1) 100%);
+background: linear-gradient(180deg, rgba(217,213,121,1) 0%, rgba(228,187,135,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d9d579",endColorstr="#e4bb87",GradientType=1);
+	}
+
+div{
+
+  margin-left:5%;
+  margin-right:5%;
+}
+
+img{
+	
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+	margin: 1.25em 0 .5em;
+	font-weight: 500;
+	font-family: "Source Sans Pro", Helvetica, Arial sans-serif;
+	line-height: 1.3em;
+	}
+h1 {
+	font-size: 28px;
+	font-size: 2.8rem;
+	}
+h2 {
+	font-size: 28px;
+	font-size: 2.4rem;
+	}
+h3 {
+	font-size: 20px;
+	font-size: 2rem;
+	}
+h4 {
+	font-size: 18px;
+	font-size: 1.8rem;
+	}
+h5 {
+	font-size: 16px;
+	font-size: 1.6rem;
+	}
+h6 {
+	font-size: 14px;
+	font-size: 1.4rem;
+	}
+
+/* Links */
+a {
+	color: #FFF;
+	}
+a:visited {
+	}
+a:focus {
+	outline: thin dotted;
+	text-decoration: none;
+	}
+a:active,
+a:hover {
+	color: #7E05FD;
+	outline: 0;
+	}
+a:hover {
+	text-decoration: none;
+	}
+
+/* Typography */
+p {
+	margin-bottom: 1em;
+	}
+
+
+
+
+
