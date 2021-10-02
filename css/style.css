@@ -35,17 +35,19 @@ background: linear-gradient(180deg, rgba(217,213,121,1) 0%, rgba(237,114,255,1) 
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d9d579",endColorstr="#ed72ff",GradientType=1);
 	}
 
-.content {  margin-left:5%;
-  margin-right:5%;}
+.footer {  margin: auto;
+	display: block;
+}
+
 div{
-margin: 0;
-padding: 0;
+margin: auto;
+	display: block;
 
 }
 
 img{
-	margin: 0;
-	padding: 0;
+	margin: auto;
+	display: block;
 		
 }
 
@@ -70,7 +72,8 @@ h2 {
 h3 {
 	font-size: 20px;
 	font-size: 2rem;
-	margin-left: 2em;
+	margin-left: 1em;
+	margin-right: 1em;
 	}
 h4 {
 	font-size: 18px;
@@ -110,6 +113,11 @@ p {
 	margin-left: 2em;
 	}
 
+iframe{
+	margin: auto;
+	display: block;
+	margin-top: 2em;
+}
 
 
 
